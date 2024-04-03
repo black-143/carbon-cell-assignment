@@ -1,0 +1,10 @@
+.trading-button button {
+    background-color: rgb(132, 192, 42);
+    border: none;
+    color: aliceblue;
+    width: 100px;
+    height: 35px;
+    font-size: 14px;
+    font-weight: 300;
+  }
+  
